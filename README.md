@@ -1,4 +1,4 @@
-# cs-bois-auto-course-registration
+# duke-course-registration-automation
 ## Disclaimer
 This thing is not properly tested and is not approved by Duke. Use at your own risk.
 
